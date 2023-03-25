@@ -3,3 +3,7 @@ fastapi
 numpy
 pandas
 uvicorn
+mlflow
+prefect==2.7.3
+pytest
+whylogs<1.0.0
