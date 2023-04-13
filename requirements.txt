@@ -4,6 +4,7 @@ numpy
 pandas
 uvicorn
 mlflow
-prefect==2.7.3
+prefect
 pytest
 whylogs<1.0.0
+nltk
